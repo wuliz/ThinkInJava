@@ -1,0 +1,7 @@
+package com.wlz.java.chapterEight_polymorphic;
+//“Ù∑˚¿‡
+
+
+public enum Note {
+MIDDLE_C,C_SHARP,B_FLAT;
+}
